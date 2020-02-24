@@ -378,9 +378,10 @@ body {
     border-color: #ffffff;
   }
   form .btn {
-    background: #111;
+    background: blue;
     font-weight: 400;
-    outline: none;
+    outline: none
+    
   }
   form .btn:hover {
     background: #000;
