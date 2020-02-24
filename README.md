@@ -18,12 +18,11 @@ Examples of text editors:
 Clone the repository to your local machine from the **[online repository]( https://github.com/levy-jpg/Delani-Studio.git)**
 
 ### Screenshots
-<img src="images/screenshot1.jpg" width=300px >
-- This is the landing page of the website.
-<img src="images/screenshot2.jpg" width=300px>
-<img src="images/screenshot3.jpg" width=300px>
-<img src="images/screenshot4.jpg" width=300px>
-<img src="images/screenshot5.jpg" width=300px>
+<img src="images/screenshots/screenshot1.jpg" width=300px >
+<img src="images/screenshots/screenshot2.jpg" width=300px>
+<img src="images/screenshots/screenshot3.jpg" width=300px>
+<img src="images/screenshots/screenshot4.jpg" width=300px>
+<img src="images/screenshots/screenshot5.jpg" width=300px>
 
 
 ## Built With
