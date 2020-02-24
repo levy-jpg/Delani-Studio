@@ -1,57 +1,39 @@
-# DELANI STUDIO
-#### This project interlinks clients to software developers, Sunday August 25 2019 
-#### By **OPIYO TITUS**&trade;
+# Delani Studios
 
-## Description
-This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive alert confirmations upon receival of the messages by the company.
-## Project live site
-  This is the live .[ Click for the demo](https://costamay.github.io/Delani-Studio/)
+This is a  fictional studio I built to aid better my grasp of various concepts in Bootstrap and JQuery.
 
-  ![Image](images/Selection_019.png)
+#### Built by: Denis Githinji
 
-## Setup instructions
-* Clone the program from [Online repo](https://costamay.github.io/Delani-Studio/)
-* Click on the green button to clone or download
+## Getting Started
+You can access this project by cloning it on to your local machine through this online repository [link.](https://github.com/DMGIthinji/Delani-Studio-Site)
 
-## Behavior Driven Development
-<table>
-    <tr>
-      <th>Behavior</th> 
-      <th>Input</th> 
-      <th>Output</th>   
-    </tr>
-    <tr>
-        <td>on load</td>
-        <td>scroll and click on what we do icon section and portfolio images </td>
-        <td>reveals more description</td>
-    </tr> 
-    <tr>
-        <td>Enter your name if you want to leave a message</td>
-        <td>['Titus']</td>
-        <td>name = 'Titus'</td>
-    </tr>
-    <tr>
-        <td>Enter Email && Message</td>
-        <td>['Email','Message']</td>
-        <td>Email && Message</td>
-    </tr>
-    <tr>
-        <td>Submit</td>
-        <td>Email && Message</td>
-        <td>'Hi Titus we have received your message and we will get in touch. Thank you for contacting us'</td>
-    </tr>
-       
-</table>
+### Prerequisites
+You need a web browser installed on your machine as well as a text editor in order to view and edit the files effectively.
+Examples of text editors:
+  * Atom
+  * Sublime
+  * Visual Studio Code
 
-## Technologies Used
-* HTML-For Building Mark Up pages
-* CSS-For styling User Interface
-* Bootsrap-For making webpage responsive
-* JQuery-For animations and cool effects of the website like hiding and showing elements
-* Javascript-For DOM(Document Object Manipulation)scripts
+### Installing
+Clone the repository to your local machine from the **[online repository]( https://github.com/DMGIthinji/Delani-Studio-Site)**
+If you have git installed in your machine, from your terminal, you could  go to your desired  working directory and type the following commands
 
-## Support and contact details
-contact me @ titusouko@gmail.com
-### License
-The project is under[MIT license](https://costamay.github.io/Delani-Studio/blob/master/LICENSE)
-Copyright &copy; 2019.All rigths reserved
+```
+  git init
+  git clone  https://github.com/DMGIthinji/Delani-Studio-Site
+```
+## Deployment
+
+Click [here](https://dmgithinji.github.io/Delani-Studio-Site/) to go to the live site.<br>
+
+## Built With
+* HTML- The markdown language used to add content.
+* CSS - Used to style the HTML.
+* Bootstrap - Used to style the content in a standardized manner.
+* JQUERY - Used to make the web page dynamic and manipulating the DOM.
+
+## Author's Contact
+If you need any clarifications or have feedback on this project , contact the author at [dmwaigithinji@gmail.com](mailto:dmwaigithinji@gmail.com)
+
+## License
+This software is Licensed under MIT license Copyright (2018) [DMGithinji](https://opensource.org/)
