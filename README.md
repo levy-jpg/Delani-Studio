@@ -1,39 +1,41 @@
 # Delani Studios
 
-This is a  fictional studio I built to aid better my grasp of various concepts in Bootstrap and JQuery.
+Delani Studios is a graphic design studio that helps in designing several business and personal projects.
+The website uses an array of Media.
 
-#### Built by: Denis Githinji
+#### Built by: Levy Kariuki
 
 ## Getting Started
-You can access this project by cloning it on to your local machine through this online repository [link.](https://github.com/DMGIthinji/Delani-Studio-Site)
+The website can be cloned to local system through this [link.](https://github.com/levy-jpg/Delani-Studio.git)
 
 ### Prerequisites
 You need a web browser installed on your machine as well as a text editor in order to view and edit the files effectively.
 Examples of text editors:
   * Atom
-  * Sublime
   * Visual Studio Code
 
 ### Installing
-Clone the repository to your local machine from the **[online repository]( https://github.com/DMGIthinji/Delani-Studio-Site)**
-If you have git installed in your machine, from your terminal, you could  go to your desired  working directory and type the following commands
+Clone the repository to your local machine from the **[online repository]( https://github.com/levy-jpg/Delani-Studio.git)**
 
-```
-  git init
-  git clone  https://github.com/DMGIthinji/Delani-Studio-Site
-```
-## Deployment
+### Screenshots
+<img src="images/screenshot1.jpg" width=300px >
+- This is the landing page of the website.
+<img src="images/screenshot2.jpg" width=300px>
+<img src="images/screenshot3.jpg" width=300px>
+<img src="images/screenshot4.jpg" width=300px>
+<img src="images/screenshot5.jpg" width=300px>
 
-Click [here](https://dmgithinji.github.io/Delani-Studio-Site/) to go to the live site.<br>
 
 ## Built With
-* HTML- The markdown language used to add content.
-* CSS - Used to style the HTML.
-* Bootstrap - Used to style the content in a standardized manner.
-* JQUERY - Used to make the web page dynamic and manipulating the DOM.
+* HTML: The markdown language used to add content.
+* CSS: Used to style the HTML.
+* Bootstrap: Used to style the content in a standardized manner.
+* JQUERY: Used to make the web page dynamic and manipulating the DOM.
+* Google Fonts: For the font of the webite
 
 ## Author's Contact
-If you need any clarifications or have feedback on this project , contact the author at [dmwaigithinji@gmail.com](mailto:dmwaigithinji@gmail.com)
+Email: levthigkari@gamil.com
+Number:+25412342318
 
 ## License
-This software is Licensed under MIT license Copyright (2018) [DMGithinji](https://opensource.org/)
+This software is Licensed under MIT license Copyright (2018) Levy Kariuki
